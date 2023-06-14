@@ -1,2 +1,3 @@
 # CoKE-Cooperative-Keypoints-Extraction
-PyTorch implementation for COKE: rethinking keypoint detection in a cooperative manner
+PyTorch implementation for CoKE: Cooperative Keypoints Extraction.
+Release soon.
